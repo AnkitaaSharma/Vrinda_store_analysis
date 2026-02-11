@@ -136,3 +136,4 @@ Users can interact with slicers to dynamically explore the data.
 This project highlights how Microsoft Excel can be effectively used for retail sales analysis and interactive dashboard creation, transforming raw data into actionable business insights.
 
 ---
+<img width="1087" height="479" alt="Vrinda store" src="https://github.com/user-attachments/assets/8594c096-8ea1-47d5-9b0b-764ba8a3a2ee" />
