@@ -1,3 +1,5 @@
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 # 📊 Vrinda Store Sales Analysis – Excel Dashboard Project
 
 ---
